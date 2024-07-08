@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Jarapara",
+        "price":"200",
+        "image":"image1.jpeg"
+    },
+    {
+        "id":2,
+        "name":"Dahlia",
+        "price":"200",
+        "image":"image2.jpeg"
+    },
+    {
+        "id":3,
+        "name":"Plumosa",
+        "price":"200",
+        "image":"image3.jpeg"
+    },
+    {
+        "id":4,
+        "name":"wild rose",
+        "price":"200",
+        "image":"images4.jpeg"
+    },
+    {
+        "id":5,
+        "name":"Gigantic rose",
+        "price":"200",
+        "image":"images5.jpeg"
+    },
+    {
+        "id":6,
+        "name":"Onion flowre",
+        "price":"200",
+        "image":"purple-flower-png-1.png"
+    },
+    {
+        "id":7,
+        "name":"Blue star",
+        "price":"200",
+        "image":"image7.jpeg"
+    },
+    {
+        "id":8,
+        "name":"Asteracea",
+        "price":"200",
+        "image":"image8.jpeg"
+    }
+]
